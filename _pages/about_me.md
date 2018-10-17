@@ -1,6 +1,6 @@
 ---
 title: 'About Me'
-permalink: /about-me/
+permalink: /about/
 ---
 
 ##  This is a page about me
