@@ -3,15 +3,15 @@ theme: jekyll-theme-hacker
 title: "My Data Science Journey"
 name: "Michael Cheung"
 description: "This website records my data science journey"
-#
-## Site Author
-#author:
-#  name: "Michael Cheung"
-#  bio:  "Associate Data Scientist at OOCL"
-#  location: "Hong Kong"
-#  github: "michaelcheung105"
-#  linkedin: "michaelcheung105"
-#
+
+# Site Author
+author:
+  name: "Michael Cheung"
+  bio:  "Associate Data Scientist at OOCL"
+  location: "Hong Kong"
+  github: "michaelcheung105"
+  linkedin: "michaelcheung105"
+
 ## Defaults
 #defaults:
 #  #_posts
