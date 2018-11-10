@@ -1,6 +1,5 @@
 # Site Settings
 theme: jekyll-theme-hacker
-#minimal_mistakes_skin : "default"
 title: "My Data Science Journey"
 name: "Michael Cheung"
 description: "This website records my data science journey"
@@ -18,18 +17,9 @@ defaults:
   #_posts
   - scope:
       path: ""
-      type: posts
     values:
       layout: single
       author_profile: true
       read_time:  true
       share:  true
       related:  true
-
-#  # _pages
-#  - scope:
-#      path: ""
-#      type: pages
-#    values:
-#      layout: single
-#      author_profile: true
